@@ -25,4 +25,5 @@ You can install the US_AC23V1.1re_V16.03.09.17_multi_TDE01.bin firmware.
 Or, you can download it from the official Tenda website:
 
 Product Overview: <https://www.tendacn.com/product/overview/AC23.html>
+
 Firmware Download: <https://www.tendacn.com/download/detail-4577.html>
